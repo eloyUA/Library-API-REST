@@ -6,6 +6,7 @@ Proyecto backend sencillo usando Java + Spring Boot para gestionar libros de una
  * Gradle 9
  * Spring Boot 4
  * IntelliJ IDEA
+ * Postman
 
 ## Conocimientos practicados
  * Arquitecturas: REST, MVC
