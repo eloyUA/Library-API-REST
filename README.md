@@ -20,10 +20,10 @@ Fuente base: `/books`
 
 | Endpoint | Description |
 | :--- | :--- |
-| `GET /books?sort=...` | Retrieve a list of all books. |
-| `GET /books/{id}` | Retrieve details of a specific book. |
-| `GET /books/search?author=...&title=...&availability=...` | Search books with advanced filters. |
-| `POST /books` | Create a new book. |
-| `PUT /books/{id}` | Fully replace an existing book. |
-| `PATCH /books/{id}?available=...` | Partially update a book (e.g., availability). |
-| `DELETE /books/{id}` | Delete a specific book. |
+| `GET /books?sort=...` | Devuelve una lista de todos los libros. |
+| `GET /books/{id}` | Devuelve un solo libro. |
+| `GET /books/search?author=...&title=...&availability=...` | Buscar libros a partir de unos filtros. |
+| `POST /books` | Crear un nuevo libro. |
+| `PUT /books/{id}` | Actualización total de un libro. |
+| `PATCH /books/{id}?available=...` | Actualización parcial de un libro |
+| `DELETE /books/{id}` | Borrar un libro específico. |
