@@ -16,12 +16,10 @@ Proyecto backend sencillo usando Java + Spring Boot para gestionar libros de una
 
 ## Endpoints
  * /books
- ```
- GET /books?sort=[TITLE, PRICE]
- GET /books/{id}
- GET /books/search?author=...&availability=...&maxPrice=...
- POST /books
- PUT /books/{id}
- PATCH /books?available=...{id}
- DELETE /books/{id}
- ``` 
+ ```GET /books?sort=[TITLE, PRICE]```
+ ```GET /books/{id}```
+ ```GET /books/search?author=...&availability=...&maxPrice=...```
+ ```POST /books```
+ ```PUT /books/{id}```
+ ```PATCH /books?available=...{id}```
+ ```DELETE /books/{id}```
