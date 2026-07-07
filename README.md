@@ -1,7 +1,13 @@
 # Library-API-REST
 Proyecto backend sencillo usando Java + Spring Boot para gestionar libros de una biblioteca.
 
-### Conocimientos
+## Herramientas
+ * Java 21
+ * Gradle 9
+ * Spring Boot 4
+ * IntelliJ IDEA
+
+## Conocimientos
  * Arquitecturas: REST, MVC
  * Patrones: DTO, Repository
  * Protocolo HTTP
