@@ -18,7 +18,7 @@ Proyecto backend sencillo usando Java + Spring Boot para gestionar libros de una
 
 Fuente base: `/books`
 
-| Endpoint | Description |
+| Endpoint | Descripción |
 | :--- | :--- |
 | `GET /books?sort=...` | Devuelve una lista de todos los libros. |
 | `GET /books/{id}` | Devuelve un solo libro. |
